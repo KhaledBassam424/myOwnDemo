@@ -1,0 +1,182 @@
+
+* {
+    box-sizing: border-box;
+
+}
+body {
+    width: 960px;
+    margin: 0 auto;
+}
+header {
+    position: relative;
+    width: 100%;
+    margin-bottom: 15px;
+
+}
+header img {
+    padding-left: 1px;
+}
+header h1 {
+    position: relative;
+    display: inline;
+    top: 10px;
+    font-family: 'Satisfy', cursive;}
+#logo {
+    position: relative;
+    top: 30px;
+}
+header p {
+    position: relative;
+    left: 47px;
+    bottom: 10px;
+    color: lightgray;
+}
+#first {
+    position: absolute;
+    right: 60px;
+    bottom: 25px;
+
+}
+#second {
+    position: absolute;
+    right: 0px;
+    bottom: 25px;
+}
+main {
+    padding-top: 0px;
+    /* background-image: url(/images/hr-img.png);
+    background-repeat: repeat; */
+    margin-bottom: -80px;
+}
+main h2 {
+
+    position: relative;
+    top: 25px;
+    font-size: 50px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+main p {
+    color: lightgray;
+    font-size: xx-small;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 15px;
+}
+#f {
+    position: relative;
+    left: 917px;
+    bottom: 35px;
+}
+#f p{
+    display: inline;
+}
+section img{
+    width: 100%;
+}
+section p {
+ color: rgb(145, 144, 144);
+}
+#li {
+    position: relative;
+}
+#s {
+    position: relative;
+
+}
+input , label{
+    position: relative;
+    bottom: 270px;
+    left: 50px;
+    font-size: x-large;
+    color: rgb(129, 112, 112);
+    width: 120px;
+}
+label {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+.a{
+    position: relative;
+    left: 200px;
+}
+.b{
+    position: relative;
+    left: 159px;
+}
+.c{
+    position: relative;
+    left: 192px;
+}
+.d{
+    position: relative;
+    left: 160px;
+}
+.e{
+    position: relative;
+    left: 143px;
+}
+.f{
+    position: relative;
+    left: 205px;
+}
+#t {
+    position: relative;
+    bottom: 140px;
+}
+#t h3 {
+    position: relative;
+    display: inline;
+    left: 15px;
+    bottom: 48px;
+    color: darkslategray;
+}
+#t p {
+    position: relative;
+    display: inline;
+    font-size: 20px;
+    width: 500px;
+    color: gray;
+    right: 136px;
+    bottom: 10px;
+}
+button {
+    position: relative;
+    color: white;
+    background-color: rgb(255, 117, 117);
+    border: red;
+    padding-top: 17px;
+    padding-bottom: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 20px;
+    bottom: 28px;
+}
+footer {
+    width: 100%;
+}
+footer img {
+    position: relative;
+    bottom: 27px;
+    left: 465px;
+}
+#lit {
+    position: relative;
+    float: right;
+    bottom: 18px;
+
+}
+footer p{
+    text-align: center;
+    color: rgb(184, 174, 174);
+}
+.bg {
+    background-image: url(/images/hr-img.png);
+    background-repeat: repeat;
+}
+#bgg {
+    position: relative;
+    bottom: 280px;
+} 
+
+
+
+
